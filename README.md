@@ -23,3 +23,6 @@ coincap api</br>
 https://docs.coincap.io/ </br>
 
 <h2>Screen Gif</h2>
+
+![coin](https://github.com/begpan/coinApp/assets/145170180/ad6883de-f3a6-4da4-997e-bfc52334d4cc)
+
